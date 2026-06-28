@@ -31,5 +31,3 @@ Player terjebak di **Pasar Hantu** dan harus mencari **Ghost Key** yang disembun
 3. Find the Ghost Key.
 4. Defeat the Demon in a turn-based battle.
 5. Escape the Ghost Market.
-
-Thank you for reviewing my prototype!
