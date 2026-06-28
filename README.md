@@ -17,12 +17,12 @@ Player terjebak di **Pasar Hantu** dan harus mencari **Ghost Key** yang disembun
 
 ## Controls
 
-W --> Move Forward 
-A -- > Move Left 
-S -- > Move Backward 
-D -- > Move Right 
-Space -- > Interact 
-Mouse -- > Select Battle Action 
+- W --> Move Forward
+- A -- > Move Left 
+- S -- > Move Backward 
+- D -- > Move Right 
+- Space -- > Interact 
+- Mouse -- > Select Battle Action 
 
 ## How to Play
 
