@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9ca4683cd87c8894bbdb370a10903603, type: 3}
+  m_Name: NPC_a_k_2
+  m_EditorClassIdentifier: 
+  lines:
+  - speakerName: NPC 2
+    text: Hahaha! Ternyata kau tidak membutuhkan botol ajaibku.
+  - speakerName: NPC 2
+    text: Kunci itu jauh lebih berharga daripada semua kekayaan di pasar ini.
+  - speakerName: NPC 2
+    text: Semoga perjalananmu berakhir dengan selamat.
+  - speakerName: NPC 2
+    text: Jangan lupa ceritakan bahwa kau pernah mengunjungi Pasar Hantu.
