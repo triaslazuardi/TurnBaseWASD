@@ -12,7 +12,7 @@ Player terjebak di **Pasar Hantu** dan harus mencari **Ghost Key** yang disembun
 - Dialogue System (Scriptable Object)
 - Simple Cutscene (Auto Walk)
 - Turn Based Battle
-- Enemy AI (Attack / Defend / Heal)
+- Easy Enemy AI (Attack / Defend / Heal)
 - Scene Transition (Fade In / Fade Out)
 
 ## Controls
