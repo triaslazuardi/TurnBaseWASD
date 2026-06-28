@@ -1,5 +1,5 @@
 # Ghost Market - Turn Based RPG Prototype
-made with **Unity 2022.3 LTS** for a Programmer Pre-Interview Test.
+made with **Unity 2022.3** for a Programmer Pre-Interview Test.
 
 ## Story
 
